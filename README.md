@@ -1,4 +1,5 @@
 # Credit_Risk_Modeling
+<img src="imgs/credit_risk.jpg" width="400" height="300">
 Credit Risk : The possibility of a loss resulting from a borrower's failure to repay a loan or meet contractual obligations.
 
 The response variable we are trying to predict in this project is the loan_status, which can be 0, or a 1. 0 = non-default, and 1 - default.
